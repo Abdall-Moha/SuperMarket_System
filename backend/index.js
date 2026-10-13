@@ -19,6 +19,7 @@ const app = express();
 app.set("trust proxy", "loopback");
 
 app.use(express.json());
+// Connects your Backend to your frontend
 app.use(cors());
 
 app.use("/api/users", userRoute);

@@ -97,7 +97,7 @@ function Sidebar({ currentUser, isSidebarOpen, onClose }) {
             <Store size={20} />
           </div>
           <div className="min-w-0">
-            <p className="text-base font-semibold tracking-[0.18em]">SamoSoftware</p>
+            <p className="text-base font-semibold tracking-[0.18em]">Abdalla's Business</p>
             <p className="text-xs text-slate-400 mt-0.5">Shop Management System</p>
           </div>
         </div>

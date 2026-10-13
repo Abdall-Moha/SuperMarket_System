@@ -58,7 +58,7 @@ function Login() {
                 onChange={function (event) {
                   setEmail(event.target.value);
                 }}
-                placeholder="admin@hogaan.com"
+                placeholder="Enter Your Email"
                 className="w-full min-w-0 rounded-md border border-slate-200 bg-white pl-10 pr-3 py-3 text-base text-[#07111F] outline-none focus:border-[#1B4F72] focus:ring-2 focus:ring-[#1B4F72]/20"
               />
             </div>

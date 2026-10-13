@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5170/api";
+const API_URL = "/api";
 
 function errorMessage(status, data) {
   if (data && data.message) {
